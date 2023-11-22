@@ -1,0 +1,18 @@
+body{
+    background-image: url(bg.jpg);
+    color: rgb(4, 4, 56);
+    font-size: 20px;
+}
+h1{
+    background-color: rgb(177, 92, 92);
+    width: 100%;
+    margin: 5;
+    padding: 15px;
+    font-family: 'Indie Flower', cursive;
+
+}
+#camera{
+    border: 5px dotted navy;
+    width: 300px;
+    height: 300px;
+}
